@@ -1,1 +1,0 @@
-print(list_meses[:5])

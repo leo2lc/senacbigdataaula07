@@ -14,4 +14,4 @@ print(list_meses[-2]) # penúltimo...e por ai vai
 print(list_meses[1:4]) # uma determinado intervalo, não vai até o 4
 print(list_meses[2:]) # de um determinado número até o último
 print(list_meses[:5]) # de um determinado número até o último
-print(list_meses[0:6:2]) 
+print(list_meses[0:6:2]) # de dois em dois
